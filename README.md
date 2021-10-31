@@ -38,3 +38,5 @@ driving.
 - [ Seaborn API ](https://seaborn.pydata.org/api.html)
 - [ Scikit-Learn API ](https://scikit-learn.org/stable/modules/classes.html)
 - [ Stackoverflow ](https://stackoverflow.com)
+
+<p align="center"><img src="certificate.png"></p>
